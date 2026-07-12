@@ -39408,5 +39408,12 @@
     "author": "Dimar4713",
     "description": "Browse and transfer files between your vault and Yandex Disk, with previews, progress, bilingual UI, and desktop proxy support. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dimar4713/aimeton-cloud-bridge"
+  },
+  {
+    "id": "between-thoughts",
+    "name": "Between Thoughts",
+    "author": "Remo Leopold",
+    "description": "Create meaningful connections between notes through reflection.",
+    "repo": "RemoLe0/BetweenThoughts"
   }
 ]
