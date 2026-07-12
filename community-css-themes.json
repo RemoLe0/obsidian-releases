@@ -3881,10 +3881,10 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "Alice Velvet",
-    "author": "kaymade",
-    "repo": "kaymade/alice-velvet",
-    "screenshot": "alice-velvet-screenshot.png",
+    "name": "Ember",
+    "author": "Rhyd Lewis",
+    "repo": "rhydlewis/obsidian-ember",
+    "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
   },
   {
@@ -3921,6 +3921,13 @@
     "repo": "tslst/tokyo-terminal-obsd",
     "screenshot": "images/screenshot1.png",
     "modes": ["dark"]
+  },
+  {
+    "name": "Scanline",
+    "author": "Bartosz V. Bentkowski",
+    "repo": "vforge/obsidian-scanline",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   },
   {
     "name": "Coding Agent",
@@ -3963,6 +3970,13 @@
     "repo": "tttnny/obsidian-claude-cream",
     "screenshot": "screenshot.png",
     "modes": ["light"]
+  },
+  {
+    "name": "Claude Code Orange",
+    "author": "kleokl7",
+    "repo": "kleokl7/Claude-Code-Obsidian-Theme",
+    "screenshot": "theme-preview.png",
+    "modes": ["dark", "light"]
   },
   {
     "name": "Gothic",
@@ -4196,13 +4210,6 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "Blue Ribbon",
-    "author": "kaymade",
-    "repo": "kaymade/blue-ribbon",
-    "screenshot": "blue-ribbon-preview.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Sugar",
     "author": "choo",
     "repo": "chooliu/obsidian-sugar-theme",
@@ -4238,10 +4245,115 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Cordyceps",
+    "author": "Francesco Palermi",
+    "repo": "frank-pw/cordyceps",
+    "screenshot": "preview.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "termina",
     "author": "Yash Bavadiya",
     "repo": "xevrion/obsidian-termina",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Terminal Workbench",
+    "author": "Real-Fruit-Snacks",
+    "repo": "real-fruit-snacks/terminal-workbench",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Apple Notes",
+    "author": "Alex Simion",
+    "repo": "alexxozo/apple-notes-obsidian",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Wake Up Samurai",
+    "author": "Chris Durham",
+    "repo": "cmdurham/wake_up_samurai",
+    "screenshot": "wake-up-samurai.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "Football Notes",
+    "author": "Rosetta Zidian Guo",
+    "repo": "fyaic/Football-Obsidian-Theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Lectern",
+    "author": "Papaya",
+    "repo": "papaya2k/obsidian-lectern-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Programming Mono",
+    "author": "SATOSprod",
+    "repo": "satosprod/programming-mono",
+    "screenshot": "cover.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Docgen",
+    "author": "Maxim Stepanov",
+    "repo": "iammaxim/obsidian-docgen-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Umbra",
+    "author": "kebl3541",
+    "repo": "kebl3541/Obsidian-Umbra",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "Air",
+    "author": "punkyard",
+    "repo": "punkyard/obsidian-theme-air",
+    "screenshot": "assets/hero.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "GeoCities 98",
+    "author": "b1rdmania",
+    "repo": "b1rdmania/obsidian-geocities-98",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "MoreMonoColor",
+    "author": "Alan",
+    "repo": "alanfgn/obsidian-more-mono-color",
+    "screenshot": "more_mono_color.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Neon Acid",
+    "author": "Ashly Lorenzana",
+    "repo": "monapdx/Neon-Acid",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "H2 OS",
+    "author": "elijahchan2019",
+    "repo": "elijahchan2019/obsidian-h2os-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["light"]
+  },
+  {
+    "name": "Composed",
+    "author": "Zijie Wang",
+    "repo": "zjie-wang/obsidian-composed",
+    "screenshot": "screenshot.png",
+    "modes": ["light"]
   }
 ]
